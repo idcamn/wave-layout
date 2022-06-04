@@ -1,7 +1,5 @@
-# wave-layout
-Верстка макета Wave [Курс от 0 до 1].
-
-Итоговый результат: [ссылка](https://idcamn.github.io/wave-layout/).
+# Верстка макета Wave [Курс от 0 до 1].
+### Итоговый результат: [ссылка](https://idcamn.github.io/wave-layout/).
 
 Использованные библиотеки:
 * slick (slider)
